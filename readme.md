@@ -1,0 +1,1 @@
+## Automating Metamask transaction approval
