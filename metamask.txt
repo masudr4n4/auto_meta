@@ -1,2 +1,2 @@
-password:Test123MetaMask
-phrase:account exhaust scout device pigeon chase raccoon learn coin daughter blind edit
+password:your_password
+phrase:your_phrase
